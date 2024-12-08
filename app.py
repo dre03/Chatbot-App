@@ -35,6 +35,7 @@ with st.sidebar:
 
 
 st.image('https://nurulfikri.ac.id/wp-content/uploads/2019/12/logo-sttnf-brand.png')
+st.write("link Github: https://github.com/dre03/Chatbot-App")
 col1, col2 = st.columns([5, 4])
 
 with col1:

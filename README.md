@@ -5,6 +5,7 @@
 <p>Lalu ketikan: "python -m streamlit run app.py" tanpa menggunakan kutip untuk menjalanyanya aplikasinya</p>
 <h2>Aplikasi Akan muncul Seperti dibawah ini</h2>
 <img src="/img/image1.png">
+<p>Jika Error Silahkan Hubungi : https://t.me/andre_apri</p>
 <p>Lalu ketika perintah contohnya seperti dibawah ini</p>
 <img src="/img/image.png">
 <hr>

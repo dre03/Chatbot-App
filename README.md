@@ -3,3 +3,5 @@
 <p>streamlit, nltk, scikit-learn, numpy, pandas</p>
 <p>Lakukan Penginstalan Library Contohnya: pip install streamlit</p>
 <p>Lalu ketikan: "python -m streamlit run app.py" tanpa menggunakan kutip untuk menjalanyanya aplikasinya</p>
+<h4>Aplikasi Akan muncul Seperti dibawah ini</h4>
+<img src="/img/image.png">

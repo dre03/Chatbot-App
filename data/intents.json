@@ -1,0 +1,171 @@
+{
+    "intents": [
+        {
+            "tag": "salam",
+            "patterns": [
+                "Hai",
+                "hai",
+                "Halo",
+                "halo",
+                "Selamat pagi",
+                "Selamat siang",
+                "Selamat sore",
+                "Assalamualaikum",
+                "Apa kabar?"
+            ],
+            "responses": [
+                "Halo! Ada yang bisa saya bantu?",
+                "Hai! Selamat datang!",
+                "Waalaikumsalam, senang bertemu dengan Anda!"
+            ]
+        },
+        {
+            "tag": "nurul_fikri",
+            "patterns": [
+                "Apa itu Nurul Fikri?",
+                "Sekolah Tinggi Teknologi Terpadu Nurul Fikri",
+                "STT NF itu apa?",
+                "Ceritakan tentang STT Nurul Fikri"
+            ],
+            "responses": [
+                "Sekolah Tinggi Teknologi Terpadu Nurul Fikri (STT NF) adalah perguruan tinggi swasta berbasis teknologi informasi dan bisnis digital yang terletak di Depok, Jawa Barat. Berdiri sejak 2012, STT NF memiliki visi untuk menjadi kampus unggulan berbasis nilai-nilai Islami.",
+                "STT NF adalah kampus yang fokus pada pengembangan teknologi dan bisnis dengan pendekatan Islami. Kampus ini menyediakan pendidikan berkualitas untuk menghasilkan lulusan yang kompeten di bidang teknologi dan manajemen."
+            ]
+        },
+        {
+            "tag": "lokasi",
+            "patterns": [
+                "Di mana lokasi STT Nurul Fikri?",
+                "Alamat STT NF?",
+                "Kampus STT NF di mana?",
+                "Lokasi kampus Nurul Fikri"
+            ],
+            "responses": [
+                "STT Nurul Fikri berlokasi di Jl. Lenteng Agung Raya No.20, Jakarta Selatan. Kampus ini mudah diakses dengan transportasi umum seperti kereta commuter line dan angkutan umum lainnya."
+            ]
+        },
+        {
+            "tag": "jurusan",
+            "patterns": [
+                "Jurusan di STT NF apa saja?",
+                "STT NF punya program studi apa?",
+                "Jurusan di Nurul Fikri",
+                "Apa saja jurusan di STT NF?"
+            ],
+            "responses": [
+                "STT Nurul Fikri memiliki tiga program studi unggulan: \n1. Teknik Informatika (TI) \n2. Sistem Informasi (SI) \n3. Bisnis Digital (BD). \n\nKetiga program ini dirancang untuk menjawab kebutuhan industri di era digital."
+            ]
+        },
+        {
+            "tag": "akreditasi",
+            "patterns": [
+                "Bagaimana akreditasi STT NF?",
+                "Apa akreditasi STT Nurul Fikri?",
+                "STT NF terakreditasi apa?"
+            ],
+            "responses": [
+                "STT Nurul Fikri telah terakreditasi oleh BAN-PT. Program studi Teknik Informatika dan Sistem Informasi mendapatkan akreditasi B, sementara Bisnis Digital sedang dalam proses penilaian."
+            ]
+        },
+        {
+            "tag": "visi_misi",
+            "patterns": [
+                "Apa visi STT NF?",
+                "Visi dan misi Nurul Fikri?",
+                "Misi kampus STT NF"
+            ],
+            "responses": [
+                "Visi STT NF adalah menjadi perguruan tinggi unggulan berbasis teknologi informasi dengan nilai-nilai Islami. \nMisi kampus: \n1. Menyediakan pendidikan berkualitas untuk menghasilkan lulusan yang kompeten. \n2. Memajukan penelitian inovatif yang bermanfaat bagi masyarakat. \n3. Mengintegrasikan nilai-nilai Islami dalam setiap aspek kehidupan kampus."
+            ]
+        },
+        {
+            "tag": "fasilitas",
+            "patterns": [
+                "Apa fasilitas yang tersedia di STT NF?",
+                "Fasilitas kampus Nurul Fikri?",
+                "STT NF ada fasilitas apa saja?"
+            ],
+            "responses": [
+                "Fasilitas di STT NF meliputi: \n- Laboratorium komputer modern dengan perangkat lunak terbaru. \n- Perpustakaan digital yang lengkap. \n- Kelas ber-AC dengan fasilitas multimedia. \n- Hotspot Wi-Fi di seluruh area kampus. \n- Mushola dan ruang ibadah yang nyaman. \n- Area diskusi untuk mahasiswa."
+            ]
+        },
+        {
+            "tag": "kegiatan_mahasiswa",
+            "patterns": [
+                "Apa kegiatan mahasiswa di STT NF?",
+                "Organisasi mahasiswa di Nurul Fikri?",
+                "Kegiatan kampus di STT NF?"
+            ],
+            "responses": [
+                "Mahasiswa di STT NF dapat mengikuti berbagai kegiatan seperti: \n- Unit Kegiatan Mahasiswa (UKM) di bidang seni, olahraga, dan teknologi. \n- Kegiatan pengabdian masyarakat seperti bimbingan belajar untuk anak-anak. \n- Seminar dan workshop teknologi. \n- Kompetisi coding, desain, dan inovasi bisnis. \n- Kegiatan keagamaan seperti kajian Islam dan mentoring Al-Quran."
+            ]
+        },
+        {
+            "tag": "beasiswa",
+            "patterns": [
+                "Apakah ada beasiswa di STT NF?",
+                "Apa ada besiswa?",
+                "Beasiswa di Nurul Fikri?",
+                "Bagaimana cara mendapatkan beasiswa di STT NF?"
+            ],
+            "responses": [
+                "STT NF menawarkan berbagai program beasiswa, seperti: \n- Beasiswa prestasi akademik. \n- Beasiswa dari mitra industri. \n- Beasiswa untuk mahasiswa kurang mampu secara finansial. \n- Beasiswa KIPK dari penerintah. \n\nUntuk informasi lebih lanjut, silakan hubungi bagian administrasi atau kunjungi situs resmi STT NF."
+            ]
+        },
+        {
+            "tag": "biaya",
+            "patterns": [
+                "Berapa biaya kuliah di STT NF?",
+                "Biaya pendidikan di Nurul Fikri?",
+                "Kuliah di STT NF mahal tidak?"
+            ],
+            "responses": [
+                "Biaya kuliah di STT Nurul Fikri tergolong terjangkau dengan skema pembayaran yang fleksibel. Informasi lengkap tentang rincian biaya dapat Anda temukan di situs resmi atau dengan menghubungi administrasi kampus."
+            ]
+        },
+        {
+            "tag": "pengalaman_alumni",
+            "patterns": [
+                "Bagaimana pengalaman alumni STT NF?",
+                "Alumni STT Nurul Fikri kerja di mana?",
+                "Testimoni alumni STT NF?"
+            ],
+            "responses": [
+                "Banyak alumni STT NF yang sukses bekerja di perusahaan teknologi ternama seperti Tokopedia, Gojek, dan Telkom. Sebagian lainnya menjadi entrepreneur di bidang digital. Testimoni mereka mengakui bahwa kurikulum STT NF sangat relevan dengan kebutuhan industri."
+            ]
+        },
+        {
+            "tag": "perpisahan",
+            "patterns": [
+                "Sampai jumpa",
+                "Bye",
+                "Dadah",
+                "Selamat tinggal",
+                "Okay",
+                "Ok",
+                "ok"
+            ],
+            "responses": [
+                "Sampai jumpa lagi! Jangan ragu untuk bertanya jika ada informasi lain yang Anda butuhkan.",
+                "Selamat tinggal! Semoga harimu menyenangkan.",
+                "Selamat kembali lagi, Senang bisa membantu"
+            ]
+        },
+        {
+            "tag": "terima_kasih",
+            "patterns": [
+                "Terima kasih",
+                "terima kasih",
+                "Makasih",
+                "Thanks",
+                "Thank you",
+                "Baik Terimakasih",
+                "baik terimaksih"
+            ],
+            "responses": [
+                "Sama-sama! Semoga informasi ini bermanfaat.",
+                "Terima kasih kembali. Jika ada pertanyaan lain, jangan ragu untuk menghubungi saya."
+            ]
+        }
+    ]
+}

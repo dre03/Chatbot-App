@@ -6,6 +6,8 @@
 <h2>Aplikasi Akan muncul Seperti dibawah ini</h2>
 <img src="/img/image1.png">
 <p>Lalu ketika perintah contohnya seperti dibawah ini</p>
+<img src="/img/image.png">
+<hr>
 <img src="/img/image2.png">
 <hr>
 <img src="/img/image3.png">
@@ -15,4 +17,4 @@
 <img src="/img/image5.png">
 <hr>
 <img src="/img/image6.png">
-<p>Bisa tanyakan lagi informasi yang ada di STT NF</p>
+<h3>Bisa tanyakan lagi informasi yang ada di STT NF</h3>
